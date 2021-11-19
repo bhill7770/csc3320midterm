@@ -1,3 +1,4 @@
+#Brianna Hill bhill28@student.gsu.edu
 #!/bin/bash
 echo "Please type a command" #prompt user
 read cmd_in
