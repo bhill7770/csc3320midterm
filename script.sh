@@ -1,4 +1,5 @@
-#!/bin/bash
+	#Brianna Hill bhill28@student.gsu.edu
+        #!/bin/bash
 
 	#Find statements function
         function find_statements() {
