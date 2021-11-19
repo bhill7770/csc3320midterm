@@ -1,7 +1,6 @@
+#Programming: Brianna Hill bhill28@student.gsu.edu
 #!/bin/bash
 #script.sh
-#Programming: Brianna Hill
-#Email: bhill28@student.gsu.edu
 
 function find_statments() { #To find function
 # Now to initialize array index counter 
